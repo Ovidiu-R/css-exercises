@@ -1,0 +1,20 @@
+.odds {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: #ff4500;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 36px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
